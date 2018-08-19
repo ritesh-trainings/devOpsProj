@@ -1,6 +1,9 @@
 <%@page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <html>
+<head>
+<title>DevOps - Ritesh</title>
+</head>
 <body>
 	<% String result= "",err = null;
 double val1= 0, val2=0;
